@@ -659,6 +659,12 @@
           "label": "KLC_S4.1",
           "name": "KLC_S4.1",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -709,7 +715,7 @@
         "uuid": "3653aa64-eb45-4922-99fb-9600f6eb2148"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R5-6,JP2-3,D2-3,#PWR20-21",
     "variants": []
   },
   "sheets": [
