@@ -1,6 +1,10 @@
 # c57
 
-Low-cost bluetooth devboard
+![](assets/irl.jpg)
+
+Low-cost bluetooth devboard with a ch572 MCU. To program it press the boot button, and use either mountriver studio or [ch32fun](https://github.com/cnlohr/ch32fun).
+
+It is also very-low powered, and has on-board USB-C connector.
 
 ![](assets/3d.png)
 
